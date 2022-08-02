@@ -12,3 +12,11 @@
 * JUnit
 * Hibernate
 * JPA
+
+### How to test
+
+You can use Postman and do a GET call to "http://localhost:8082/price" URL, with the following params
+
+* appDate: Timestamp
+* productId: Integer
+* brandId: Integer
