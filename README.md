@@ -4,7 +4,7 @@
 
 ### Technologies used
 
-* SpringBoot
+* Spring Boot
 * H2 Database
 * Java
 * Lombok
