@@ -1,6 +1,6 @@
 # ECOMMERCE
 
-## This project concerns the creation of rest end point and perform different tests on it
+## This project concerns the creation of a rest end point and perform different tests over it
 
 ### Technologies used
 
