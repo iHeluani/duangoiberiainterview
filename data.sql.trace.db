@@ -1,0 +1,6 @@
+2022-08-01 18:32:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ECOMMERCE" not found (this database is empty); SQL statement:
+select ecommerce0_.price_list as price_li1_0_, ecommerce0_.brand_id as brand_id2_0_, ecommerce0_.curr as curr3_0_, ecommerce0_.end_date as end_date4_0_, ecommerce0_.price as price5_0_, ecommerce0_.priority as priority6_0_, ecommerce0_.product_id as product_7_0_, ecommerce0_.start_date as start_da8_0_ from ecommerce ecommerce0_ [42104-214]
+2022-08-01 18:34:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ECOMMERCE" not found (this database is empty); SQL statement:
+select ecommerce0_.price_list as price_li1_0_, ecommerce0_.brand_id as brand_id2_0_, ecommerce0_.curr as curr3_0_, ecommerce0_.end_date as end_date4_0_, ecommerce0_.price as price5_0_, ecommerce0_.priority as priority6_0_, ecommerce0_.product_id as product_7_0_, ecommerce0_.start_date as start_da8_0_ from ecommerce ecommerce0_ [42104-214]
