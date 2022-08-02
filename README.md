@@ -1,7 +1,14 @@
-# ECOMMERCE EXERCISE
+# ECOMMERCE
 
-## test
+## This project concerns the creation of rest end point and perform different tests on it
 
-### test
+### Technologies used
 
-test
+* SpringBoot
+* H2 Database
+* Java
+* Lombok
+* Maven
+* JUnit
+* Hibernate
+* JPA
